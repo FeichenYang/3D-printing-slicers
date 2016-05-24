@@ -1,2 +1,2 @@
 # 3D-printing-slicers
-Slicers wrote in Python for hydrogel 3D printing, Prusa i3 printer of mine
+Just a couple of slicers I wrote in Python for my Prusa i3 printer. Cura just don't get me sometimes.
